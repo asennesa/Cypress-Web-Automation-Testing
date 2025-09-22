@@ -1,0 +1,24 @@
+{
+  "name": "cypress-web-automation-testing",
+  "version": "1.0.0",
+  "description": "Cypress: Web Automation Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asennesa/Cypress-Web-Automation-Testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asennesa/Cypress-Web-Automation-Testing/issues"
+  },
+  "homepage": "https://github.com/asennesa/Cypress-Web-Automation-Testing#readme",
+  "devDependencies": {
+    "cypress": "^15.2.0"
+  }
+}
